@@ -1,1 +1,1 @@
-# UFO_Predictor
+# ufo-predictor
